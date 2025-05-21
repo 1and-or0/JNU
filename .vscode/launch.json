@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: arm.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/AI/unsupervised/arm.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

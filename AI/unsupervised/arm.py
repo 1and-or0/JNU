@@ -3,7 +3,7 @@ from mlxtend.frequent_patterns import apriori, association_rules
 from mlxtend.preprocessing import TransactionEncoder
 
 # CSV 파일 경로
-file_path = 'store_data.csv'
+file_path = './AI/unsupervised/store_data.csv'
 
 try:
     # 데이터 로딩 (헤더 없음)
