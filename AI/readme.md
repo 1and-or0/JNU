@@ -3,3 +3,6 @@
 로지스틱 회귀   
 의사 결정 트리  
 Random forest
+xgboost
+ARM
+K-means clustering, Hierarchical clustering
